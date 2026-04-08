@@ -40,7 +40,8 @@ export default function ContactPage() {
                     Our Office
                   </h3>
                   <p className="text-gray-600">
-                    B-122, Shiv Bux Park, Old Gangaram School Building
+                    PLOT NO. 820, MAIN BHOOTON WALI GALI,  BEHIND SBI ATM,  MANDIR MARG, OPP. MONA BUILDING, NANGLOI, NEW 
+                    DELHI-110041
                     <br />
                     Nangloi, New Delhi 110041
                     <br />

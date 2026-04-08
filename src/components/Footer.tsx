@@ -33,7 +33,8 @@ export function Footer() {
               <div className="flex items-center space-x-2 text-gray-600">
                 <MapPin className="w-4 h-4" />
                 <span className="text-sm">
-                  B-122, Shiv Bux Park, Old Gangaram School Building
+                PLOT NO. 820, MAIN BHOOTON WALI GALI,  BEHIND SBI ATM,  MANDIR MARG, OPP. MONA BUILDING, NANGLOI, NEW 
+                DELHI-110041
                   <br />
                   Nangloi, New Delhi 110041
                   <br />
